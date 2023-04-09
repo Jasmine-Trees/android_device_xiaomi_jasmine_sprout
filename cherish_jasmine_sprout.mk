@@ -42,6 +42,6 @@ TARGET_ENABLE_BLUR := true
 WITH_GMS := true
 
 # Maintainer Stuff
-CHERISH_BUILD_TYPE := UNOFFICIAL
+CHERISH_BUILD_TYPE := OFFICIAL
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=nhAsif
